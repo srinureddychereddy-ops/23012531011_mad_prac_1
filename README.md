@@ -18,7 +18,9 @@ O/P:-
 O/P:-
 
 
-(https://github.com/user-attachments/assets/101a6729-da9c-4e5b-8610-37ca8379b664)
+
+<img width="575" height="602" alt="image" src="https://github.com/user-attachments/assets/730935db-7b11-43c1-88b7-29d997d6bc4f" />
+
 
 1.4.Check Odd or Even Numbers: Determine whether a number is odd or even using control flow within println() method
 
